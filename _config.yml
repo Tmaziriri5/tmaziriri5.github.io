@@ -23,13 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Tawanda Maziriri"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Pretoria"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "tmaziriri5@gmail.com" 
 
   # Academic websites
   academia         : # URL
