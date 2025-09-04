@@ -26,7 +26,7 @@ author:
   name             : "Tawanda Maziriri"
   pronouns         : # example: "she/her"  
   bio              : "Business and law enthusiast exploring the intersection of research and technology. Passionate about problem-solving, continuous learning, and sharing knowledge through writing."
-  location         : "https://www.google.com/maps/place/Pretoria/@-25.7585572,28.033139,11z/data=!3m1!4b1!4m6!3m5!1s0x1e95619cbec65033:0xf66262b07a847b4c!8m2!3d-25.7565723!4d28.1913815!16zL20vMDY3ejQ?entry=ttu&g_ep=EgoyMDI1MDgzMC4wIKXMDSoASAFQAw%3D%3D"
+  location         : "Pretoria"
   uri              : # URL
   email            : "tmaziriri5@gmail.com" 
 
@@ -35,7 +35,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0002-1341-1741"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
