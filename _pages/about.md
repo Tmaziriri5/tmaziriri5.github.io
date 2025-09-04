@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Hello, I’m Tawanda Maziriri — welcome to my digital home! My journey has taken me through business and law, and now into the exciting world of technology. Over time, I’ve come to see how these fields connect, and I’m passionate about exploring the ways they shape our lives, societies, and futures.
+
+This site is where I bring those interests together. You’ll find reflections on my personal journey, notes from my learning in software development, and articles that dive into topics in business and law. I’m also building this space as a foundation for my future academic research, so some of the content leans toward critical thinking and exploration.
+
+At the same time, I want this to feel like a conversation. It’s not just a portfolio or blog, but a growing record of ideas, challenges, and lessons I’ve picked up along the way. So please, feel free to browse around, read, and even reach out if something sparks your curiosity. This is more than just a website — it’s my evolving notebook of growth, learning, and discovery.
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
