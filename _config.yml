@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Tawaz / Site Title"
+title                    : "Tawanda's Digital Space"
 title_separator          : "-"
 name                     : &name "Your T1 Name"
 description              : &description "personal description"
