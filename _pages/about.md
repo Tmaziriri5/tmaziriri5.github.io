@@ -36,7 +36,7 @@ Today, my focus is on Cloud Engineering — particularly on the aspects of compl
 
 Where I see myself is at the crossroads of law, business, and technology. My goal is to pursue deeper research and advanced studies that contribute to building compliant, ethical, and innovative solutions in the cloud space. This website is more than a portfolio — it is a reflection of my journey, my growth, and my ongoing commitment to bridging different worlds in meaningful ways.
 
-My Journey
+The Journey Continues
 ======
 Thank you for visiting my digital home. This site is more than just a portfolio — it’s a reflection of my journey, interests, and ambitions. Here, you’ll find a mix of content that represents different parts of who I am and where I’m headed.
 
