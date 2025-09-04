@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Hello there! I'm Tawanda... Please feel free to browse through my Digital home!"
+title: "Hello there! I'm Tawanda... 
+Please feel free to browse through my Digital home!"
 author_profile: true
 redirect_from: 
   - /about/
