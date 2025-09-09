@@ -11,9 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Bachelor of Commerce (Honours) in Business Management, University of South Africa, 2022
+* Bachelor of Commerce In Law, The Independent Institute of Education, 2020
+
+Certifications
+======
+* AWS Solutions Architect (expected November 2025)
+
 
 Work experience
 ======
@@ -59,6 +63,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
