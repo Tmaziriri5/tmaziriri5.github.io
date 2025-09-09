@@ -21,10 +21,9 @@ Certifications
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* TC Energy 2022-2024: Compliance Officer
+  * Ensured adherence to relevant laws, regulations, and internal policies by monitoring compliance risks and implementing effective controls. Conducted internal
+audits, supported policy development, facilitated employee training, and served as a point of contact for regulatory bodies. Promoted a culture of integrity and ethical conduct across the organization.
 
 * Fall 2015: Research Assistant
   * GitHub University
