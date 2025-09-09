@@ -25,15 +25,12 @@ Work experience
   * Ensured adherence to relevant laws, regulations, and internal policies by monitoring compliance risks and implementing effective controls. Conducted internal
 audits, supported policy development, facilitated employee training, and served as a point of contact for regulatory bodies. Promoted a culture of integrity and ethical conduct across the organization.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Livingstone Research 2021-2022: Research Assistant
+  * In this role I used to assist students with research based assignments in finding articles suitable for respective research topics in variety of topics ranging
+from management, law, and financial management. Additionally, I assisted students with referencing academic articles.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Redherring 2019-2020: Marketing Agent (Brand Activations)
+  * Promoted brand awareness through direct customer engagement at events and retail locations. Represented the brand in a professional and engaging manner, educated consumers about product benefits, distributed promotional materials, and assisted with setup and execution of marketing activations.
   
 Skills
 ======
