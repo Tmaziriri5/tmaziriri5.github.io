@@ -2,9 +2,9 @@
 title: "THE CORRELATION BETWEEN MANAGEMENT COMPETENCIES AND THE RETURN ON EQUITY OF SMALL BUSINESSES"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2021-07-15-THE-CORRELATION-BETWEEN-MANAGEMENT-COMPETENCIES-AND-THE-RETURN-ON-EQUITY-OF-SMALL-BUSINESSES
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: 2021-07-15
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://tmaziriri5.github.io/files/67108768_MAZIRIRI_TL_HRBUS83_ASS05-converted.pdf'
