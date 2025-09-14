@@ -3,7 +3,7 @@ title: "THE CORRELATION BETWEEN MANAGEMENT COMPETENCIES AND THE RETURN ON EQUITY
 collection: publications
 category: manuscripts
 permalink: /publication/2021-07-15-THE-CORRELATION-BETWEEN-MANAGEMENT-COMPETENCIES-AND-THE-RETURN-ON-EQUITY-OF-SMALL-BUSINESSES
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper investigates the relationship between managerial competencies and the financial performance of small businesses, with a focus on return on equity (ROE). It examines how skills such as strategic planning, leadership, financial management, and decision-making contribute to improved profitability and long-term business sustainability. The study emphasizes that beyond access to resources, the ability of managers to effectively apply their competencies plays a central role in business success. Findings suggest that small businesses with stronger managerial competencies tend to achieve higher ROE, underlining the importance of developing and nurturing these skills in the entrepreneurial sector.'
 date: 2021-07-15
 venue: 'Journal 1'
 ##slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
