@@ -1,8 +1,5 @@
 ---
-title: "Is there a statistically significant difference between the academic performance 
-of students who frequently use and those that rarely use the student support 
-services provided in a research methodology module during the COVID-19 
-pandemic? "
+title: "The Impact of Student Support Services on Academic Performance During the COVID-19 Pandemic"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
