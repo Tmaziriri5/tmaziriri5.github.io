@@ -10,7 +10,7 @@ excerpt: 'This paper investigates the relationship between the use of student su
 date: 2010-10-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://github.com/Tmaziriri5/tmaziriri5.github.io/blob/master/files/HMEMS80%C2%AD%C2%AD_67108768_Maziriri_TL.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
