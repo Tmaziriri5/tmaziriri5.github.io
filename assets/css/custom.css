@@ -1,36 +1,38 @@
-/* Thumbnail styling */
+/* Small image styling */
 a img {
   border-radius: 5px;
   cursor: pointer;
-  transition: 0.3s;
+  transition: transform 0.3s ease;
 }
 
 a img:hover {
-  transform: scale(1.05);
+  transform: scale(1.1); /* little zoom on hover */
 }
 
-/* Lightbox overlay */
+/* Lightbox overlay (hidden by default) */
 .lightbox {
   display: none;
   position: fixed;
-  z-index: 999;
+  z-index: 9999;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
   background: rgba(0,0,0,0.85);
   text-align: center;
+  line-height: 100vh; /* centers vertically */
 }
 
+/* Enlarged image inside popup */
 .lightbox img {
   max-width: 90%;
-  max-height: 80%;
-  margin-top: 5%;
+  max-height: 85%;
+  vertical-align: middle;
   border-radius: 10px;
   box-shadow: 0 0 25px rgba(0,0,0,0.7);
 }
 
-/* Show lightbox when targeted */
+/* Show lightbox when the link is targeted */
 .lightbox:target {
   display: block;
 }
