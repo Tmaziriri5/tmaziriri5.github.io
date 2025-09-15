@@ -9,3 +9,9 @@
   position: relative;
   z-index: 1000; /* makes sure it stays above text */
 }
+
+.zoom-img {
+  display: inline-block;
+  overflow: visible; /* allow image to grow outside container */
+}
+
