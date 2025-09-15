@@ -1,13 +1,11 @@
 .zoom-img img {
-  transition: transform 0.3s ease;
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
   cursor: pointer;
 }
 
 .zoom-img img:hover {
-  transform: scale(2);
-}
-
-.zoom-img {
-  display: inline-block;
-  overflow: hidden;
+  transform: scale(2.5); /* much larger zoom */
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5); /* shadow for focus */
+  position: relative;
+  z-index: 1000; /* makes sure it stays above text */
 }
