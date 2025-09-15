@@ -11,6 +11,23 @@ layout: compress
     {% include head/custom.html %}
     <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
     <img src="/assets/images/20250424_163923.jpg" alt="Golf drive" class="zoomable">
+    <div id="fullscreen" class="fullscreen" onclick="closeFullscreen()">
+  <img id="fullscreen-img" src="" alt="">
+</div>
+
+<script>
+  function openFullscreen(img) {
+    const fullscreen = document.getElementById("fullscreen");
+    const fullscreenImg = document.getElementById("fullscreen-img");
+    fullscreen.style.display = "flex";
+    fullscreenImg.src = img.src;
+  }
+
+  function closeFullscreen() {
+    document.getElementById("fullscreen").style.display = "none";
+  }
+</script>
+
 
 
   </head>
