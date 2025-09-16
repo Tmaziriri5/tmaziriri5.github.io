@@ -1,12 +1,13 @@
 /* Default inline image */
-.cover-image {
-  width: 100%;              /* full width */
-  height: 300px;            /* fixed banner height (adjust as needed) */
-  object-fit: cover;        /* crop sides/top instead of squishing */
-  object-position: center;  /* center crop */
-  border-radius: 0;         /* clean edge like FB/X headers */
-  cursor: zoom-in;          /* hint it’s clickable */
+.rect-image {
+  width: 100%;        /* span full width of container */
+  max-width: 900px;   /* optional: don’t go too crazy on large screens */
+  height: 250px;      /* fixed rectangle height */
+  object-fit: cover;  /* crops instead of stretching */
+  object-position: center; /* keep the middle visible */
+  border-radius: 10px; /* optional rounded corners */
   display: block;
+  margin: 0 auto;     /* center the image */
 }
 
 .clickable-image:hover {
