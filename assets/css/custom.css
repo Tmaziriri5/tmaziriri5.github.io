@@ -5,6 +5,13 @@
   border-radius: 8px;
   transition: transform 0.2s ease;
 }
+.full-width-img {
+  width: 100%;          /* span side-to-side */
+  height: auto;         /* keep original aspect ratio */
+  display: block;       /* removes inline gaps */
+  border-radius: 8px;   /* optional rounded corners */
+}
+
 .clickable-image:hover {
   transform: scale(1.05);
 }
