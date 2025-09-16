@@ -1,8 +1,8 @@
 /* Default inline image */
 .rect-image {
   width: 100%;        /* span full width of container */
-  max-width: 900px;   /* optional: don’t go too crazy on large screens */
-  height: 250px;      /* fixed rectangle height */
+  max-width: 1000px;   /* optional: don’t go too crazy on large screens */
+  height: 200px;      /* fixed rectangle height */
   object-fit: cover;  /* crops instead of stretching */
   object-position: center; /* keep the middle visible */
   border-radius: 10px; /* optional rounded corners */
